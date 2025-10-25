@@ -8,3 +8,5 @@
 8. [BR] MvM #8 Casino City 24x7 : steam://connect/tf2.morgoth.cc:27022
 9. [BR] MvM #9 Boogge 24x7 : steam://connect/tf2.morgoth.cc:27023
 10. [BR] MvM #10 Payload 100x players 24x7 : steam://connect/tf2.morgoth.cc:27024
+11. [BR] MvM #11 Eventos : steam://connect/tf2.morgoth.cc:27025
+12. [BR] MvM #12 MvM Cloud Piercer 24x7 : steam://connect/tf2.morgoth.cc:27026
